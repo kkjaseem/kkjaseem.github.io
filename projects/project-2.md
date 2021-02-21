@@ -20,8 +20,8 @@ Source: <a href="https://github.com/kkjaseem/smooth-scroll"><i class="large gith
 
 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/scroll.png">
+<div>
+  <imgn src="../images/scroll.png">
  
 </div>
 
