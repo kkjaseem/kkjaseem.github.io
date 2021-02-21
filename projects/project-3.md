@@ -13,6 +13,7 @@ labels:
   - Bootstrap
   - MySQL
   - PHP
+  - Frontend
 summary: An E-Commerce website.
 ---
 
