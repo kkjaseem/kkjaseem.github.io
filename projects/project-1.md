@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/webapp.png
 title: Todo App
 permalink: projects/todoapp
 # All dates must be YYYY-MM-DD format!
