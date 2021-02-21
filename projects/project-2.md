@@ -18,4 +18,10 @@ summary: A Smooth scrolling responsive website.
 
 Source: <a href="https://github.com/kkjaseem/smooth-scroll"><i class="large github icon"></i>Smooth Scroll</a>
 
-image: images/scroll.png
+
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/scroll.png">
+ 
+</div>
+
