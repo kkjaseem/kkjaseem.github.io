@@ -8,6 +8,7 @@ permalink: projects/todoapp
 date: 2020-12-24
 labels:
   - JavaScript
+  - ReactJS
   - NodeJS
   - Docker
 summary: I developed a Todo App.
