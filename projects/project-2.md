@@ -11,6 +11,7 @@ labels:
   - CSS
   - JavaScript
   - UI/UX
+summary: A Smooth scrolling responsive website.
 
 ---
 
