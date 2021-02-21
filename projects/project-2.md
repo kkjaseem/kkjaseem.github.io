@@ -21,7 +21,7 @@ Source: <a href="https://github.com/kkjaseem/smooth-scroll"><i class="large gith
 
 
 <div>
-  <img src="../images/scroll.png" width="750" height="750">
+  <img src="../images/scroll.png" width="800" height="500">
  
 </div>
 
