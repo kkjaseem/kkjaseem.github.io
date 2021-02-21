@@ -12,6 +12,8 @@ labels:
   - CSS
   - JavaScript
   - UI/UX
+  - Frontend
+summary: Sign In and Sign Up Frontend.
   
 
 ---
