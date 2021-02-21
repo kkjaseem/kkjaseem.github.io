@@ -6,7 +6,7 @@
     "email": "kkjaseem@gmail.com",
     "phone": "9656861797",
     "website": "https://kkjaseem.github.io",
-    "summary": "I am studying for a BTech in Computer Science Engineering  at Lovely Professional University. I expect to graduate in Spring, 2021.",
+    "summary": "I am studying for  BTech in Computer Science Engineering  at Lovely Professional University. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "676307",
@@ -24,34 +24,22 @@
         "network": "linkedin",
         "username": "kkjaseem",
         "url": "http://linkedin.com/in/kkjaseem"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
+      "name": "Frontend",
+      "keywords": [
+              ]
+    },
+    {
       "name": "Cloud Computing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
       "name": "DevOps",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -63,30 +51,30 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "ReactJS",
+        "NodeJS"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Adobe",
+        "GIMP"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Lovely Professional University, Punjab, IN",
+      "area": "Computer Science Engineering (expected Spring, 2021)",
+      "studyType": "BTEch",
+      "startDate": "2017-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
