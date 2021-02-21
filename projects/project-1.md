@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Todo App
+permalink: projects/todoapp
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-12-24
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - JavaScript
+  - NodeJS
+  - Dcoker
+summary: I developed a Todo App.
 ---
 
 <div class="ui small rounded images">
