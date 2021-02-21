@@ -20,8 +20,8 @@ summary: Sign In and Sign Up Frontend.
 
 Source: <a href="https://github.com/kkjaseem/gs-app-mern"><i class="large github icon"></i>Green Hub</a>
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/green.png">
+<div>
+  <img src="../images/green.png">
  
 </div>
 
