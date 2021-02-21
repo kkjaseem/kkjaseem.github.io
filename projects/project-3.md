@@ -21,3 +21,8 @@ summary: An E-Commerce website.
 
 Source: <a href="https://github.com/kkjaseem/ecommerce-web"><i class="large github icon "></i>E-commerce website</a>
 
+<div>
+  <img src="../images/ecom.png" >
+ 
+</div>
+
