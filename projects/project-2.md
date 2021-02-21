@@ -17,3 +17,5 @@ summary: A Smooth scrolling responsive website.
 ---
 
 Source: <a href="https://github.com/kkjaseem/smooth-scroll"><i class="large github icon"></i>Smooth Scroll</a>
+
+<img src="images/scroll.png">
