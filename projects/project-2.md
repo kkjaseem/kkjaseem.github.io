@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/webapp.png
 title: Smooth Scroll
 permalink: projects/smoothscroll
 # All dates must be YYYY-MM-DD format!
